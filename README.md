@@ -1,2 +1,2 @@
 # Random-JS-Codes
-For random programs made in JavaScript.
+For random programs made in JavaScript & Node.
